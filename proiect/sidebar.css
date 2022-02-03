@@ -1,0 +1,42 @@
+.sidebar {
+	display: flex;
+	flex-direction: column;
+	width: 15%;
+	padding: 10px 0px 0px 20px;
+}
+.menu-element {
+	margin: 15px;
+	font-weight: bold;
+    cursor: pointer;
+}
+.menu-element-label:hover {
+    color: #1DA1F2;
+}
+.menu-element-label:visited {
+    color: #1DA1F2;
+}
+.menu-element-label {
+	padding-left: 20px;
+}
+.fa-twitter {
+    padding-left: 20px;
+	padding-bottom: 20px;
+	font-size: 24px;
+	color: #1DA1F2;
+}
+.fas:hover {
+    color: #1DA1F2;
+}
+.fas:visited {
+    color: #1DA1F2;
+}
+button {
+	border-radius: 20px;
+	background-color: #1DA1F2;
+	color: white;
+	border: none;
+	padding: 10px;
+	width: 150px;
+	font-weight: bold;
+    cursor: pointer;
+}

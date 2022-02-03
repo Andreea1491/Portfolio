@@ -1,0 +1,104 @@
+
+.notification {
+	width: 25%;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+.input-icon i {
+	position: absolute;
+	padding: 8px;
+	color: #C8C8C8;
+}
+ .search {
+	border-radius: 40px;
+	background-color: #e5ecef;
+	padding-left: 40px;
+	width: 100%;
+	height: 30px;
+	border: 0px;
+}
+
+.tweet-notification {
+	border-radius: 30px;
+	background-color: #f5f9fa;
+	margin-top: 20px;
+	padding-left: 20px;
+	font-size: 14px;
+}
+.trends {
+	padding-top: 20px;
+	font-weight: bold;
+	font-size: 18px;
+	cursor: pointer;
+}
+
+.trends > .fa-cog {
+	float: right;
+	color: #1DA1F2;
+	padding-right: 20px;
+}
+.plus {
+	font-weight: bold;
+	line-height: 5px;
+	cursor: pointer;
+}
+.canada {
+	padding-right: 10px;
+	line-height: 12px;;
+}
+.arrow {
+	color: gray;
+	font-size: 12px;
+	line-height: 2px;
+}
+.trending {
+	color: grey;
+	line-height: 10px;
+}
+.seinfeld {
+	cursor: pointer;
+}
+.tweets {
+color: gray;
+line-height: 5px;
+}
+.radius {
+	display: flex;
+	border-radius: 10px;
+	border: 1px solid grey;
+	padding-left: 16px;
+}
+.fans {
+	display: block;
+	color: gray;
+}
+.television{
+	line-height: 12px;
+	text-align: left;
+	padding-top: 5px;
+}
+.picture {
+	max-width: 60px;
+	object-fit: cover;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+.show {
+	color: #1DA1F2;
+	padding-bottom: 10px;
+	cursor: pointer;
+}
+.second-tweet-notification {
+	height: 80px;
+	border-radius: 30px;
+	background-color: #f5f9fa;
+	margin-top: 20px;
+	padding-left: 20px;
+	font-size: 14px;
+}
+.who {
+	font-weight: bold;
+	padding-top: 10px;
+	font-size: 16px;
+	cursor: pointer;
+}
